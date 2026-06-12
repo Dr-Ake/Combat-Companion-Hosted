@@ -12,4 +12,4 @@ D:\Combat Companion\Start Combat Director.bat
 
 The hosted UI talks back to:
 
-http://127.0.0.1:8765
+http://localhost:8765
