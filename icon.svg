@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Combat Director">
+  <rect width="512" height="512" rx="96" fill="#111827"/>
+  <path d="M256 76 92 154v86c0 104 68 166 164 196 96-30 164-92 164-196v-86L256 76Z" fill="#e5e7eb"/>
+  <path d="M256 124 138 180v62c0 74 48 121 118 146 70-25 118-72 118-146v-62l-118-56Z" fill="#1f2937"/>
+  <path d="M174 282c44-64 120-64 164 0-44 44-120 44-164 0Z" fill="#f59e0b"/>
+  <circle cx="256" cy="254" r="34" fill="#111827"/>
+  <path d="M256 169v48M256 291v52M185 256h45M282 256h45" stroke="#e5e7eb" stroke-width="22" stroke-linecap="round"/>
+</svg>
+

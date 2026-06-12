@@ -1,0 +1,15 @@
+{
+  "name": "Combat Director",
+  "version": "0.1.0",
+  "manifest_version": 1,
+  "description": "Supervised local LLM monster tactics for Owlbear Rodeo.",
+  "author": "Local",
+  "icon": "./icon.svg",
+  "action": {
+    "title": "Combat Director",
+    "icon": "./icon.svg",
+    "popover": "./index.html",
+    "width": 420,
+    "height": 680
+  }
+}
