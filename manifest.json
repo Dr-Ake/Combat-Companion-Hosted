@@ -4,11 +4,11 @@
   "manifest_version": 1,
   "description": "Supervised local LLM monster tactics for Owlbear Rodeo.",
   "author": "Local",
-  "icon": "./icon.svg",
+  "icon": "https://dr-ake.github.io/Combat-Companion-Hosted/icon.svg",
   "action": {
     "title": "Combat Director",
-    "icon": "./icon.svg",
-    "popover": "./index.html",
+    "icon": "https://dr-ake.github.io/Combat-Companion-Hosted/icon.svg",
+    "popover": "https://dr-ake.github.io/Combat-Companion-Hosted/index.html",
     "width": 420,
     "height": 680
   }
